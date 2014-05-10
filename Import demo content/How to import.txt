@@ -1,0 +1,13 @@
+You can import via ‘Tools -> Import’ in the WordPress admin area. After importing the included xml file, make sure to assign the menus to the proper locations under “Appearance -> Menus” and to set the desired static frontpage under “Settings -> Reading”.
+
+When you run the import, you have the option to also import images. If you click this, the images will be imported from our demo to your server.
+
+If you get an error during the import, be sure to check the folder permissions. Otherwise images can't be saved on the server.
+
+If you want to import the Revolution Slider from The Company theme, you can select the 'revolution-slider-demo-content.zip' file in the demo folder of your choice when importing sliders from within the plugin.
+
+Please take note that we paid for the images in our demo, and thus have a license to use them. So be sure to use your own images ;)
+
+If you have any questions after running the import, please feel free to ask them on our support forum: http://support.redfactory.nl/
+
+Have fun!
